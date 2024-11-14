@@ -1,4 +1,4 @@
-/**/
+/* */
 
 /* 
 React Hook Form (RHF) içindeki hooklar:
@@ -19,9 +19,9 @@ Ana fonksiyon, yani form gönderildiğinde çalışacak olan fonksiyondur.
 Ana fonksiyon, bu hook'lar tarafından sağlanan işlevlerle desteklenir. 
 */
 
-/*
+
 npm i npm install react-hook-form  // React Hook Form kütüphanesini npm ile install etmek.
-*/
+
 
 /* useForm HOOK İLE OLUŞTURULAN
 

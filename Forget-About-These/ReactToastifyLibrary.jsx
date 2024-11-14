@@ -1,6 +1,6 @@
 /* */
 
-/* npm install react-toastify  npm ile toastify kütüphanesini instal ediyoruz. */
+npm install react-toastify  // npm ile toastify kütüphanesini instal ediyoruz.
 
 import React from "react";
 
